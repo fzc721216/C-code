@@ -1,0 +1,6 @@
+# ninja log v5
+7	547	7013508367115898	CMakeFiles/untitled1.dir/main.cpp.obj	3b37cc5d7f7a66e7
+6	605	7013499072942686	CMakeFiles/untitled1.dir/Dice.cpp.obj	feb591e19f26a446
+548	752	7013508369096644	untitled1.exe	cb668f818061a83a
+13	504	7013494051787699	CMakeFiles/untitled1.dir/Point.cpp.obj	29bbb03ba382e118
+2	352	7013515895389967	build.ninja	92f30907d56c15d8
